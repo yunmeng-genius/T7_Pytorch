@@ -1,0 +1,3 @@
+# Tutorial 7: Pytorch
+
+Most of the materials of this tutorial are taken from the [tutorials at pytorch website](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html), [pytorch tutorial on torch.nn](https://pytorch.org/tutorials/beginner/nn_tutorial.html), [Pytorch Tutorial](https://www.learnpytorch.io/), [RNN Tutorial](https://github.com/dair-ai/pytorch_notebooks/tree/master), [MNIST application tutorial](https://towardsdatascience.com/an-actual-application-for-the-mnist-digits-classifier-bbd76548bf2f), and [this tutorial](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627).
